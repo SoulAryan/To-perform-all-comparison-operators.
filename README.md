@@ -1,1 +1,1 @@
-Program to perform all the comparison operators in C language
+Program to understand all the comparison operators in C language
